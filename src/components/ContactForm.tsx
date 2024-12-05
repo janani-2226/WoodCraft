@@ -86,15 +86,15 @@ export function ContactForm() {
             <div className="space-y-4">
               <div className="flex items-center gap-4 text-amber-800 dark:text-amber-200">
                 <MapPin className="h-6 w-6 flex-shrink-0" />
-                <p>123 Furniture Street, Design District, Mumbai, India 400001</p>
+                <p>Tamilnadu</p>
               </div>
               <div className="flex items-center gap-4 text-amber-800 dark:text-amber-200">
                 <Phone className="h-6 w-6 flex-shrink-0" />
-                <p>+91 (123) 456-7890</p>
+                <p>+91 8248521010</p>
               </div>
               <div className="flex items-center gap-4 text-amber-800 dark:text-amber-200">
                 <Mail className="h-6 w-6 flex-shrink-0" />
-                <p>contact@woodcraft.com</p>
+                <p>contact@furnilux.com</p>
               </div>
             </div>
           </div>

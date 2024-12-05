@@ -23,9 +23,14 @@ export function About() {
           <div>
             <h2 className="text-3xl font-bold text-amber-900 dark:text-amber-100 mb-6">Our Heritage</h2>
             <p className="text-amber-800 dark:text-amber-200 mb-4">
-              Founded in 1970, WoodCraft has been at the forefront of furniture craftsmanship in India. 
-              What started as a small workshop in Mumbai has grown into one of India's most respected 
-              furniture brands, while maintaining our commitment to quality and traditional craftsmanship.
+            At [Your Website Name], we redefine how you experience furniture by blending innovation, 
+            elegance, and functionality. Every piece in our collection is thoughtfully designed 
+            to bring style and comfort into your spaces, creating an ambiance that feels uniquely yours. 
+            Our commitment to quality craftsmanship ensures that our furniture not only looks stunning but 
+            also stands the test of time. We embrace sustainability, crafting with care for both your home 
+            and the environment. Whether you’re furnishing a cozy corner or an entire home, our diverse range 
+            caters to all styles and needs. With us, it’s not just furniture – it’s the art of making a house your 
+            dream home.
             </p>
             <p className="text-amber-800 dark:text-amber-200">
               Our journey is marked by an unwavering dedication to excellence, sustainable practices, 

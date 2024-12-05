@@ -10,9 +10,9 @@ export function Banner() {
           <div className="text-center">
             <h1 className="text-5xl font-bold text-white mb-4">Elevate Your Living Space</h1>
             <p className="text-xl text-white mb-8">Discover our collection of handcrafted furniture</p>
-            <button className="bg-amber-700 text-white px-8 py-3 rounded-lg hover:bg-amber-800 transition">
+            {/* <button className="bg-amber-700 text-white px-8 py-3 rounded-lg hover:bg-amber-800 transition">
               Shop Now
-            </button>
+            </button> */}
           </div>
         </div>
       </div>

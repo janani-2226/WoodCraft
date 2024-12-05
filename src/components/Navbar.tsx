@@ -12,7 +12,7 @@ export function Navbar() {
         <div className="flex items-center justify-between h-16">
           <Link to="/" className="flex items-center space-x-2">
             <Sofa className="h-8 w-8 text-amber-800 dark:text-amber-100" />
-            <span className="text-xl font-bold text-amber-800 dark:text-amber-100">WoodCraft</span>
+            <span className="text-xl font-bold text-amber-800 dark:text-amber-100">Furnilux</span>
           </Link>
           
           <div className="flex space-x-8">
